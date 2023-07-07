@@ -8,6 +8,7 @@
 
 ## Summary
 
+|---|---|
 | **WP ID** | 02-00 |
 | **Customer** | |
 | **Supplier** | |
@@ -29,7 +30,7 @@
 
 - **R**esponsible
 - **A**ccountable
-- **S**Support
+- **S**upporting
 - **I**nformed
 - **C**onsulted
 
@@ -70,6 +71,7 @@
 
 ## Resources Provided by Customers
 > Identification of resources to be provided by the customer
+
 | ID   | Description                    |
 |------|--------------------------------|
 | R1   | e.g. Access to Jira Instance   |
