@@ -8,6 +8,7 @@
 
 ## Summary
 
+|-------------------|-----------------|
 | **WP ID**         | 02-00           |
 | **Customer**      | Wiley Coyote    |
 | **Supplier**      | ACME Industries |
