@@ -4,7 +4,7 @@ This table provides a mapping of Automotive SPICE for Cybersecurity relevant wor
 
 ## **Automotive SPICE for Cybersecurity**
 
-| WP ID   | WP Name                               | Outcomes                                        | Document                                    |
+| WP ID   | Work Product Name                     | Outcomes                                        | Document                                    |
 |---------|---------------------------------------|-------------------------------------------------|---------------------------------------------|
 | 02-00   | Contract                              | ACQ.2.4                                         |
 | 02-01   | Commitment/Agreement                  | ACQ.2.4                                         |
