@@ -1,4 +1,4 @@
-# Automotive SPICE for Cybersecurity Mapping of Requirements to Docuemnts
+# Automotive SPICE for Cybersecurity Mapping of Requirements to Documents
 
 This table provides a mapping of Automotive SPICE for Cybersecurity relevant work products to the documents.
 
