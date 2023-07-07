@@ -15,13 +15,24 @@
 | **Supplier**      | ACME Industries |
 | **Date Executed** | 1 Jan 1900      |
 
+## Purpose
+> Why are we doing this project?
+
 ## Scope of Work
 > Defines what is to be purchased/delivered
 
-## Milestones and Delivery Schedule
+## Location of Work
+> Describe where the work is to be completed. Include location of hardware,
+> software, people, etc.
+
+## Period of Performance
+> Start/End Dates, # of hours to be billed per week/month, etc.
+
+## Deliverable Schedule
 > Identifies time frame of delivery / contracted service dates
 
-## Compensation
+## Payment Schedule
+> What type of contract is this? Firm fixed price, fixed, t&m, unit?
 > Identifies monetary considerations
 > Frequency of payment
 
