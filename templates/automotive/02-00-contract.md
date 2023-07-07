@@ -8,11 +8,10 @@
 
 ## Summary
 
-|---|---|
-| **WP ID** | 02-00 |
-| **Customer** | |
-| **Supplier** | |
-| **Date Executed**| |
+| **WP ID**         | 02-00           |
+| **Customer**      | Wiley Coyote    |
+| **Supplier**      | ACME Industries |
+| **Date Executed** | 1 Jan 1900      |
 
 ## Scope of Work
 > Defines what is to be purchased/delivered
