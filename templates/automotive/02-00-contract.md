@@ -8,8 +8,9 @@
 
 ## Summary
 
-| **WP ID**         | 02-00           |
+|                   |                 |
 |-------------------|-----------------|
+| **WP ID**         | 02-00           |
 | **Customer**      | Wiley Coyote    |
 | **Supplier**      | ACME Industries |
 | **Date Executed** | 1 Jan 1900      |
